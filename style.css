@@ -1,0 +1,29 @@
+body {
+  background-color: #e9ecf5;
+}
+
+h1,
+p,
+label,
+option,
+h2,
+h3,
+h4,
+h5,
+hr {
+  font-family: "Montserrat";
+}
+
+a {
+  font-family: "Montserrat";
+}
+
+ul li {
+  list-style-type: none;
+  font-family: "Montserrat";
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
